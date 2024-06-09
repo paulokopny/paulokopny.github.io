@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: GFDSVFDGRTDEGR
 description: [A short description of your site's purpose]
+show_downloads: false

@@ -1,3 +1,2 @@
-# Home
 
-Personal site
+Pavel's personal site
